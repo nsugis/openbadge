@@ -1,0 +1,17 @@
+{
+    "type": "Assertion",
+    "id": "https://nsugis.github.io/openbadge/assertion.json",
+    "badge": "https://openbadge.lots-on.co.kr/public/api/v1/web/openbadge/badge/info/5418df56-88df-416b-8b4d-7a9bbed7bf08",
+    "image": "https://openbadge.lots-on.co.kr/public/api/v1/web/openbadge/assertion/image/3f783b2f-73ba-4161-b61d-e1854e7ac6b7",
+    "issuedOn": "2023-08-01T13:21:29",
+    "expires": "2024-08-31T00:00",
+    "verification": {
+        "type": "HostedBadge"
+    },
+    "recipient": {
+        "type": "email",
+        "identity": "kmw86@lots-on.co.kr",
+        "hashed": false
+    },
+    "@context": "https://w3id.org/openbadges/v2"
+}
